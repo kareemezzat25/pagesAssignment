@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:pagesassignment/categoryModelseller.dart';
+import 'package:pagesassignment/page1/categoryModelseller.dart';
 
 class CardbestSiller extends StatelessWidget {
   CategoryModel categoryModel;

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:pagesassignment/bestseller.dart';
-import 'package:pagesassignment/categoriesslider.dart';
-import 'package:pagesassignment/categoryModelseller.dart';
-import 'package:pagesassignment/textWidegt.dart';
+import 'package:pagesassignment/page1/bestseller.dart';
+import 'package:pagesassignment/page1/categoriesslider.dart';
+import 'package:pagesassignment/page1/categoryModelseller.dart';
+import 'package:pagesassignment/page1/textWidegt.dart';
 
 class AudioBooks extends StatelessWidget {
   AudioBooks({super.key});

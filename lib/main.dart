@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:pagesassignment/audiobooks.dart';
+import 'package:pagesassignment/page1/audiobooks.dart';
+import 'package:pagesassignment/page2/moody.dart';
 
 void main() {
   runApp(const MyApp());
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: AudioBooks(),
+      home: Moody(),
     );
   }
 }
